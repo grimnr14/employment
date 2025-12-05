@@ -1,0 +1,16 @@
+"geoid","geolevel","year","level","value"
+"15001","county",2019,"employment_score",97.6
+"15003","county",2019,"employment_score",126.74
+"15005","county",2019,"employment_score",NA
+"15007","county",2019,"employment_score",123.38
+"15009","county",2019,"employment_score",122.08
+"15001","county",2019,"employment_rnk",44.9488
+"15003","county",2019,"employment_rnk",91.7839
+"15005","county",2019,"employment_rnk",NA
+"15007","county",2019,"employment_rnk",88.9066
+"15009","county",2019,"employment_rnk",87.0524
+"15001","county",2019,"employment_state_rnk",0
+"15003","county",2019,"employment_state_rnk",100
+"15005","county",2019,"employment_state_rnk",NA
+"15007","county",2019,"employment_state_rnk",66.6667
+"15009","county",2019,"employment_state_rnk",33.3333

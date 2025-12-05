@@ -1,0 +1,10 @@
+"geoid","geolevel","year","level","value"
+"10001","county",2023,"employment_score",104.6
+"10003","county",2023,"employment_score",123.55
+"10005","county",2023,"employment_score",100.88
+"10001","county",2023,"employment_rnk",58.873
+"10003","county",2023,"employment_rnk",90.5355
+"10005","county",2023,"employment_rnk",49.6264
+"10001","county",2023,"employment_state_rnk",50
+"10003","county",2023,"employment_state_rnk",100
+"10005","county",2023,"employment_state_rnk",0

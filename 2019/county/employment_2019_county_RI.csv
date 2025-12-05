@@ -1,0 +1,16 @@
+"geoid","geolevel","year","level","value"
+"44001","county",2019,"employment_score",131.15
+"44003","county",2019,"employment_score",130.43
+"44005","county",2019,"employment_score",122.66
+"44007","county",2019,"employment_score",108.52
+"44009","county",2019,"employment_score",119.66
+"44001","county",2019,"employment_rnk",94.5652
+"44003","county",2019,"employment_rnk",94.2455
+"44005","county",2019,"employment_rnk",87.7238
+"44007","county",2019,"employment_rnk",67.2634
+"44009","county",2019,"employment_rnk",84.1752
+"44001","county",2019,"employment_state_rnk",100
+"44003","county",2019,"employment_state_rnk",75
+"44005","county",2019,"employment_state_rnk",50
+"44007","county",2019,"employment_state_rnk",0
+"44009","county",2019,"employment_state_rnk",25
